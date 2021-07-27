@@ -1,5 +1,18 @@
 h1{
-    color: blueviolet;
-    font-size: 30px;
+    font-size: 30px; 
+}
+#fname{
+    color: coral;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.half-width{
+    width: 40%;
     float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
 }
